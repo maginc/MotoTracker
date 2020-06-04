@@ -8,5 +8,5 @@ After switching, units for all trips will be converted to current ones.</br>
 
 
 ### Actual data showing in main screen
-![Main screen](/screenshots/main_screen.png)![Main screen2](/screenshots/main_screen.png)
+![Main screen](/screenshots/main_screen.png)          ![Main screen2](/screenshots/main_screen2.png)
 
