@@ -6,5 +6,5 @@ Settings allows to switch between metric (kilometers) and  imperial (miles). </
 Also it does not maters in which units trip was recorded.</br>
 After switching, units for all trips will be converted to current ones.</br>
 
-![Main screen](/screenshots/main_screen.png)
+![Main screen](/screenshots/main_screen.png =250x250)
 
