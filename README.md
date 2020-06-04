@@ -1,4 +1,4 @@
-# Moto Tracker is minimalistic app for tracking your ride
+# Moto Tracker is minimalistic app for tracking your rides
 
 Moto Tracker offers tracking your route and basic information about it. </br>
 Such as maximum - averages speed, route length and duration.</br>
