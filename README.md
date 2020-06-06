@@ -6,7 +6,7 @@ Settings allows to switch between metric (kilometers) and  imperial (miles). </
 Also it does not maters in which units trip was recorded.</br>
 After switching, units for all trips will be converted to current ones.</br>
 
-<a href='https://play.google.com/store/apps/details?id=com.themagins.mototracker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.themagins.mototracker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150"/></a>
 
 ### Actual data showing in main screen
 ![Main screen](/screenshots/main_screen.png)    ![Main screen2](/screenshots/main_screen2.png)
